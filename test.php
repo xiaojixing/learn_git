@@ -23,6 +23,7 @@ class RedirectIfAuthenticated
             $arr = 2;
             $arr = 3;
             $arr = 4;
+             // 小明提交
         }
 
         return $next($request);
